@@ -1,0 +1,40 @@
+-ACEROS
+AISI PROCESAMIENTO    Sut[MPa]  Sy[MPa]
+1020 HR                  380      210  
+1020 CD                  470      390  
+1030 HR                  470      260  
+1030 CD                  520      440  
+1035 HR                  500      270  
+1035 CD                  550      460  
+1040 HR                  520      290  
+1040 CD                  590      490  
+1045 HR                  570      310  
+1045 CD                  630      530  
+1050 HR                  620      340  
+1050 CD                  690      580  
+
+-ACEROS CON TRATAMIENTO TERMICO
+AISI PROCESAMIENTO    Sut[MPa]  Sy[MPa]
+4140 T&R @205 C          1770     1640 
+4140 T&R @315 C          1550     1430 
+4140 T&R @425 C          1250     1140 
+4140 T&R @540 C          951      834  
+4140 T&R @650 C          758      655  
+4140 Normalizado @870 C  1020     655  
+4140 Recocido @815 C     655      417  
+4340 T&R @315 C          1720     1590 
+4340 T&R @425 C          1470     1360 
+4340 T&R @540 C          1170     1080 
+4340 T&R @650 C          965      855  
+
+-HIERRO FUNDIDO GRIS
+ASTM                  Sut[MPa]  Suc[MPa]
+20                       151.58   571.87  
+25                       179.14   668.33  
+30                       213.59   751.01  
+35                       251.485  854.36  
+40                       292.825  964.6   
+50                       361.725  1129.96 
+60                       430.625  1291.875
+
+-Tabla A-20,21,24 Shigley 9na Ed.
